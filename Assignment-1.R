@@ -68,14 +68,3 @@ print(v1[1:2]) # Vector Slicing
 #   4) Matrix
 #   5) Factor
 #   6) Data Frame
-
-
-
-
-
-
-
-
-
-
-
